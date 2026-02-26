@@ -1,0 +1,13 @@
+seeds:
+  - ip: "127.0.0.1"
+    port: 7001
+  - ip: "127.0.0.1"
+    port: 7002
+  - ip: "127.0.0.1"
+    port: 7003
+
+peer_port_range:
+  start: 8000
+  end: 9000
+
+initial_peers: 5
