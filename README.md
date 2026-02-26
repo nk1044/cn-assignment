@@ -1,4 +1,7 @@
 # P2P Network with Consensus-Based Liveness Detection
+Submitted by:-
+Neeraj Kumar (B23CS1044)
+Abhyudaya Tiwari (B23CS1085)
 
 A distributed P2P system featuring:
 
