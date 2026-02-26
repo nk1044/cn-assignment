@@ -10,4 +10,4 @@ peer_port_range:
   start: 8000
   end: 9000
 
-initial_peers: 5
+initial_peers: 4
