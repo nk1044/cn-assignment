@@ -1,0 +1,18 @@
+[2026-02-26 19:16:55] [SEED 127.0.0.1:7001] Seed started. quorum=1
+[2026-02-26 19:16:56] [SEED 127.0.0.1:7002] Seed started. quorum=2
+[2026-02-26 19:16:56] [SEED 127.0.0.1:7003] Seed started. quorum=2
+[2026-02-26 19:17:02] [SEED 127.0.0.1:7002] Registration proposal for ('127.0.0.1', 8000)
+[2026-02-26 19:17:02] [SEED 127.0.0.1:7003] Registration proposal for ('127.0.0.1', 8000)
+[2026-02-26 19:17:02] [SEED 127.0.0.1:7001] Peer REGISTERED via consensus: ('127.0.0.1', 8000)
+[2026-02-26 19:17:02] [SEED 127.0.0.1:7002] Peer REGISTERED via consensus: ('127.0.0.1', 8000)
+[2026-02-26 19:17:05] [SEED 127.0.0.1:7002] Registration proposal for ('127.0.0.1', 8001)
+[2026-02-26 19:17:05] [SEED 127.0.0.1:7001] Peer REGISTERED via consensus: ('127.0.0.1', 8001)
+[2026-02-26 19:17:08] [SEED 127.0.0.1:7001] Registration proposal for ('127.0.0.1', 8002)
+[2026-02-26 19:17:08] [SEED 127.0.0.1:7001] Peer REGISTERED via consensus: ('127.0.0.1', 8002)
+[2026-02-26 19:17:08] [SEED 127.0.0.1:7002] Registration proposal for ('127.0.0.1', 8002)
+[2026-02-26 19:17:11] [SEED 127.0.0.1:7003] Registration proposal for ('127.0.0.1', 8003)
+[2026-02-26 19:17:11] [SEED 127.0.0.1:7001] Registration proposal for ('127.0.0.1', 8003)
+[2026-02-26 19:17:11] [SEED 127.0.0.1:7001] Peer REGISTERED via consensus: ('127.0.0.1', 8003)
+[2026-02-26 19:17:46] [SEED 127.0.0.1:7001] Dead node proposal for ('127.0.0.1', 8001)
+[2026-02-26 19:17:46] [SEED 127.0.0.1:7003] Dead node proposal for ('127.0.0.1', 8001)
+[2026-02-26 19:17:46] [SEED 127.0.0.1:7001] Peer REMOVED via consensus: ('127.0.0.1', 8001)
